@@ -44,6 +44,9 @@ Currently focused on:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00A0DF?style=flat&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=flat&logo=python&logoColor=white)
 
 ### 🎯 **Specializations**
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -51,9 +54,12 @@ Currently focused on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 🔨 **Tools & Frameworks**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![PyWhatKit](https://img.shields.io/badge/PyWhatKit-34A853?style=flat&logo=python&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009999?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
 
@@ -61,7 +67,42 @@ Currently focused on:
 
 ## 📌 Featured Projects
 
-### 🤖 **1. JARVIS — AI Voice Assistant**
+### 🤖 **1. RETAIN-IQ — Customer Retention Intelligence Platform**
+
+**End-to-end ML platform for churn prediction and retention strategy**
+
+An intelligent customer churn prediction and retention intelligence platform that combines predictive modeling with business decision-making and explainability.
+
+<div align="center">
+
+**Tech Stack:** Python • Flask • Pandas • NumPy • XGBoost • SHAP • MySQL • Docker  
+**Architecture:** Web Application • ML Pipeline • Database-Driven  
+**Status:** Deployed & Live
+
+[**🔗 View Repository**](https://github.com/AnshTyagi2006/RETAIN-IQ)
+
+</div>
+
+**Key Features:**
+- 🔐 User authentication with secure sessions
+- 🎯 Individual & batch customer churn prediction
+- 📊 Risk classification (High/Medium/Low)
+- 🧠 SHAP-based prediction explainability
+- 📈 Business analytics & customer segmentation
+- 💾 MySQL data persistence with ownership validation
+- 🧪 Automated testing (30+ tests, 100% pass rate)
+- 🐳 Docker containerization for deployment
+
+**What I Learned:**
+- Full-stack web application development
+- ML explainability and interpretability (SHAP)
+- User authentication & data security
+- Production deployment and testing best practices
+- Decision-support system architecture
+
+---
+
+### 🤖 **2. JARVIS — AI Voice Assistant**
 
 **Advanced desktop voice assistant with modular architecture**
 
@@ -94,7 +135,7 @@ A production-ready Python voice assistant featuring modular service-oriented des
 
 ---
 
-### 📊 **2. Data Science Projects**
+### 📊 **3. Data Science Projects**
 
 **End-to-end data analysis & ML implementations**
 
@@ -125,7 +166,7 @@ Comprehensive collection of real-world data analysis projects covering the compl
 
 ---
 
-### 🐍 **3. Python Mini Projects Collection**
+### 🐍 **4. Python Mini Projects Collection**
 
 **Practical programming fundamentals through diverse applications**
 
@@ -150,7 +191,7 @@ Curated collection of CLI applications, games, and utilities designed to strengt
 
 ---
 
-### 💾 **4. SQL & DBMS Mastery**
+### 💾 **5. SQL & DBMS Mastery**
 
 #### **SQL LeetCode Practice**
 
@@ -244,7 +285,7 @@ I'm always excited to collaborate on:
 **Email:** [anshtyagiansh0@gmail.com](mailto:anshtyagiansh0@gmail.com)  
 **LinkedIn:** [ansh-tyagi2006](https://www.linkedin.com/in/ansh-tyagi2006)  
 **GitHub:** [@AnshTyagi2006](https://github.com/AnshTyagi2006)  
-**Location:** 📍 Paonta Sahib, Himachal Pradesh, India
+**Location:** 📍 Mohali, Punjab, India
 
 </div>
 
